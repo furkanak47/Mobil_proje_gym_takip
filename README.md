@@ -59,3 +59,5 @@ Bu uygulama, kullanıcıların sağlıklı yaşam hedeflerine ulaşmalarına yar
    - Android Studio/VS Code
 
 2. Projeyi klonlayın:
+
+3. FURKAN AKDEMİR 132230044
