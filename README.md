@@ -17,7 +17,7 @@ Bu uygulama, kullanıcıların sağlıklı yaşam hedeflerine ulaşmalarına yar
 - Günlük aktivite takibi
 
 ### 3. Antrenman Ekranı
-![Antrenman Ekranı](screenshots/antrenman_ekrani.png)
+![Antrenman Ekranı](screenshots/Antrenman_ekrani.png)
 - Program detayları
 - Egzersiz listesi
 - Set ve tekrar takibi
