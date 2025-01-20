@@ -1,21 +1,61 @@
-<<<<<<< HEAD
-# projeyi
+# Sağlıklı Yaşam ve Spor Takip Uygulaması
 
-A new Flutter project.
+## Proje Amacı
+Bu uygulama, kullanıcıların sağlıklı yaşam hedeflerine ulaşmalarına yardımcı olmak için tasarlanmış bir fitness ve beslenme takip uygulamasıdır.
 
-## Getting Started
+## Uygulama Ekranları
 
-This project is a starting point for a Flutter application.
+### 1. Giriş Ekranı
+![Giriş Ekranı](screenshots/giris_ekrani.png)
+- Kullanıcı girişi ve kayıt işlemleri
+- E-posta ve şifre doğrulama
 
-A few resources to get you started if this is your first Flutter project:
+### 2. Ana Ekran
+![Ana Ekran](screenshots/ana_ekran.png)
+- Program seçimi
+- Hızlı başlangıç
+- Günlük aktivite takibi
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+### 3. Antrenman Ekranı
+![Antrenman Ekranı](screenshots/antrenman_ekrani.png)
+- Program detayları
+- Egzersiz listesi
+- Set ve tekrar takibi
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
-=======
-# Mobil_proje_gym_takip
-Flutter ile geliştirilmiş sağlık uygulaması
->>>>>>> f21d637fad4e77b36d5697750cc72093b143a952
+### 4. Beslenme Ekranı
+![Beslenme Ekranı](screenshots/beslenme_ekrani.png)
+- Öğün takibi
+- Kalori hesaplama
+- Besin değerleri
+
+### 5. Profil Ekranı
+![Profil Ekranı](screenshots/profil_ekrani.png)
+- Kullanıcı bilgileri
+- İstatistikler
+- Hedef takibi
+
+## Özellikler
+
+### 🏋️‍♂️ Antrenman Programları
+- Full Body Programı
+- Push/Pull/Legs
+- Bölgesel Program
+- Ev Programı
+
+### 🥗 Beslenme Takibi
+- Öğün planlama
+- Kalori hesaplama
+- Besin değerleri veritabanı
+
+### 📊 Profil ve İstatistikler
+- Kişisel bilgiler
+- İlerleme grafikleri
+- Hedef belirleme
+
+## Kurulum
+
+1. Gereksinimleri yükleyin:
+   - Flutter SDK
+   - Android Studio/VS Code
+
+2. Projeyi klonlayın:
