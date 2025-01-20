@@ -4,8 +4,9 @@
 - FURKAN AKDEMİR - 132230044
 
 ## Proje Tanıtım Videosu
-[![Proje Tanıtım Videosu](https://img.youtube.com/vi/VIDEO_ID/0.jpg)](https://www.youtube.com/watch?v=VIDEO_ID)
+[![Proje Tanıtım Videosu](https://img.youtube.com/vi/vIyDZ4MpfBQ/0.jpg)](https://www.youtube.com/watch?v=vIyDZ4MpfBQ)
 
+[Geri kalan README içeriği aynı kalacak şekilde...]
 ## Proje Amacı
 Bu uygulama, kullanıcıların sağlıklı yaşam hedeflerine ulaşmalarına yardımcı olmak için tasarlanmış bir fitness ve beslenme takip uygulamasıdır. Kullanıcılar antrenman programlarını takip edebilir, beslenme alışkanlıklarını düzenleyebilir ve gelişimlerini izleyebilirler.
 
